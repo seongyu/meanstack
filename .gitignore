@@ -1,0 +1,4 @@
+# default ignore directory
+node_modules
+public/components
+bin
